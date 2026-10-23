@@ -72,3 +72,6 @@ Testing/
 
 # Generated render
 *.ppm
+
+# Modelos OBJ del proyecto de Visualizacion
+!Proyecto/models/*.obj
